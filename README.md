@@ -6,13 +6,13 @@
 
 ---
 
-## 🧭 Purpose
+## Purpose
 
 The aim of this task is to evaluate the privacy, encryption, and performance features of ProtonVPN (free version). The report includes connection steps, IP masking tests, traffic encryption checks, and overall observations regarding VPN utility.
 
 ---
 
-## 🛠️ Steps Taken
+## Steps Taken
 
 1. **VPN Selection**  
    Selected ProtonVPN for its reputation in privacy, strong security standards, and availability of a free plan.
@@ -44,7 +44,7 @@ The aim of this task is to evaluate the privacy, encryption, and performance fea
 
 ---
 
-## 🔒 Security and Privacy Features
+## Security and Privacy Features
 
 - **AES-256 Bit Encryption**: Industry-standard data protection.  
 - **OpenVPN & WireGuard**: Reliable and secure tunneling protocols.  
@@ -55,15 +55,15 @@ The aim of this task is to evaluate the privacy, encryption, and performance fea
 
 ---
 
-## 📊 Observations – Pros and Cons
+## Observations – Pros and Cons
 
-### ✅ Advantages:
+### Advantages:
 - Effectively hides your real IP and location  
 - Encrypts data, enhancing privacy on untrusted networks  
 - Helps in accessing region-restricted websites  
 - Prevents surveillance and tracking by ISPs  
 
-### ⚠ Drawbacks:
+### Drawbacks:
 - Reduced internet speed when using free servers  
 - Limited number of servers in the free tier  
 - Streaming platforms and torrents are not supported in the free version  
@@ -71,6 +71,6 @@ The aim of this task is to evaluate the privacy, encryption, and performance fea
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
 ProtonVPN's free plan is a solid option for users seeking basic privacy protection without data caps. It offers reliable encryption and good performance for web browsing, though speed and server options improve significantly in paid plans.
